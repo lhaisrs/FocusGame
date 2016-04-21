@@ -1,0 +1,66 @@
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\debora.MICETEPAM\Desktop\focusgame\Desenvolvimento\FocusGame\obj\Debug\Assembly-CSharp.pdb
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\Mono.Cecil.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEditor.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.DataContract.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.xml
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEditor.xml
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\obj\Debug\Assembly-CSharp.dll
+D:\Arquivos Pc\Desktop\Nova pasta (4)\Desenvolvimento\FocusGame\obj\Debug\Assembly-CSharp.pdb
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\Mono.Cecil.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEditor.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.DataContract.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.xml
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEditor.xml
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\obj\Debug\Assembly-CSharp.dll
+D:\Arquivos Pc\Documents\Projetos\Desenvolvimento\FocusGame\obj\Debug\Assembly-CSharp.pdb
